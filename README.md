@@ -1,8 +1,8 @@
-<div id="top_img" style="float: right">
+<div id="top_img" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5lajBxYmNhY2RqajRxbnlqd3FxcXpkcjRlazlndmV3eDU3ZmllcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy_s.gif" width="20%"/>
 </div>
 <h1>Hi, I`m Vadym! :smiley_cat:</h1>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vadym-smg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
