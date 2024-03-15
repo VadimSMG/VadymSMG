@@ -27,6 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
-<div id="stats">
-  <h2>📊 Stats :</h2>
+<h2>📊 Stats :</h2>
+<div id="stats" align=left>
+  <img src="https://github-readme-stats.vercel.app/api?username=vadimsmg&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="500em"/></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadimsmg&theme=graywhite&show_icons=true&hide_border=true&layout=compact" width="500em"/>
 </div>
